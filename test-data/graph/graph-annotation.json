@@ -1,0 +1,18 @@
+{
+	"TC_001_Graph_Annotation": {
+        "address": "0x896a2be088cd5916ac2e1989f94a9dfaf738cf81cb9be4c4924de5b55622927b",
+		"nodeAddress1": "0x75cb6ed8ba4eaa881baa404c7b6313abdd3271a6",
+		"nodeAddress2": "0x56eddb7aa87536c09ccc2793473599fd21a8b17f"
+    },
+	"TC_002_Graph_Annotation": {
+		"label": "TestingLabel",
+		"currencies": "eth,bch,op,arb,matic,bsc"
+	},
+	"TC_010_Graph_Annotation": {
+		"name": "TestingName",
+		"category": "TestingCategory",
+		"description": "TestingDescription",
+		"confidentialInfo": "TestingConfidentialInfo",
+		"successToastMsg": "Attribution info submitted successfully"
+	}
+}

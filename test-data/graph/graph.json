@@ -1,0 +1,58 @@
+{
+    "TC_001_Graph": {
+        "address": "0x66456c7573a6ca8d8000cc6b2ed238ef3432988a21d97f099e811695f8e8994f"
+    },
+    "TC_002_Graph": {
+        "invalidToken": "Testing",
+        "validAddress": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",
+        "validTransaction": "0x027169c2d663b19b2833fc31fbd1f821b33d59f0b328d5cf5927c1b973494bc8",
+        "singleAddressSingleCurrency": "bitcoincash:qplt5yl2976q0my6sq6s0nfp3mwzpps86stx4gcrd5",
+        "singleTaggedAddressSingleCurrency": "0x6321f9f02d9d56261c8c79131ae74d7b427ccaf5",
+		"singleAddressMutlipleCurrencies": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",
+		"singleTransactionSingleCurrency": "0xbc4f6056057df0cf45478f8c84f5fa2eb9827d71d067cfece77ce9d6d305d223",
+		"addresses": "Addresses",
+		"transactions": "Transactions",
+        "deleteToastMessage": "Graph deleted successfully."
+    }, 
+    "TC_013_Graph": {
+        "address": "bitcoincash:qplt5yl2976q0my6sq6s0nfp3mwzpps86stx4gcrd5",
+        "singleAddressMutlipleCurrencies": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",
+		"singleTransactionSingleCurrency": "0xbc4f6056057df0cf45478f8c84f5fa2eb9827d71d067cfece77ce9d6d305d223",
+		"singleTaggedAddressSingleCurrency": "0x6321f9f02d9d56261c8c79131ae74d7b427ccaf5",
+		"addresses": "Addresses",
+		"transactions": "Transactions"
+    },
+    "TC_014_Graph": {
+        "address": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",        
+		"addresses": "Addresses",
+		"transactions": "Transactions"
+    },
+    "TC_018_Graph": {
+		"address1": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",
+		"address2": "bitcoincash:qrt2h8zkn247nsn0s0stgtmajvywhj7pvud8sfjcq9",
+		"address3": "bitcoincash:qp6grwf83n7r0ww0n47uwcaazlm5u944ysczaekzrw",
+		"address4": "0x11ab3d99061b2f3f45f8a540843e5ea192517246"
+	},
+    "TC_021_Graph": {
+		"transaction1": "0x027169c2d663b19b2833fc31fbd1f821b33d59f0b328d5cf5927c1b973494bc8",
+		"transaction2": "0x724964af4ee15d71548a769a25d16cc89fe476500b19a2702af01eff24f832c8",
+		"transaction3": "0xda32d3c8a7320d7060a7841cf300d8b43764e1c07000834f88424a540615b549",
+		"transaction4": "0x11296dd8d7e3128ca569ceeb0d060b146f23002540ffc24bab01539d59f73573"
+	},
+    "TC_025_Graph": {
+		"address": "bitcoincash:qrt2h8zkn247nsn0s0stgtmajvywhj7pvud8sfjcq9",
+		"addressWithMultipleCurrency":"0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",
+		"validSingleTransaction":"0x027169c2d663b19b2833fc31fbd1f821b33d59f0b328d5cf5927c1b973494bc8",
+		"multipleAddress":"0x05c79917a8f6a715ffb9f2890c744fb78bd8213b bitcoincash:qrt2h8zkn247nsn0s0stgtmajvywhj7pvud8sfjcq9,bitcoincash:qp6grwf83n7r0ww0n47uwcaazlm5u944ysczaekzrw",
+		"multipleAddressSingleCurrency":"bitcoincash:qrt2h8zkn247nsn0s0stgtmajvywhj7pvud8sfjcq9,bitcoincash:qp6grwf83n7r0ww0n47uwcaazlm5u944ysczaekzrw,bitcoincash:qz54ksvgndrmq07ge4pmtn879zsc3enzsvp40u4eae",
+		"multipleTransaction":"0x7c86b6c04a7c7bf1e1a2f753b7d43bf868dae3f0e0da783ce375b3487c431367 0x027169c2d663b19b2833fc31fbd1f821b33d59f0b328d5cf5927c1b973494bc8,0x96bc282efb22484fa43aeda6ed5cefed4179b4b23e9b89e4eae65141ec151988",
+		"Currencies": "eth,bch,op,arb,matic,bsc"
+	},
+	"TC_033_Graph": {
+		"addressWithMultipleCurrencies": "0x98db3a41bf8bf4ded2c92a84ec0705689ddeef8b",
+		"addressWithSingleCurrency":"bitcoincash:qrt2h8zkn247nsn0s0stgtmajvywhj7pvud8sfjcq9",
+		"transactionWithSingleCurrency":"0x896a2be088cd5916ac2e1989f94a9dfaf738cf81cb9be4c4924de5b55622927b",
+		"Currencies": "eth,bch,op,arb,matic,bsc",
+		"graphSavedToastMessage": "Graph has been saved successfully"
+	}
+}

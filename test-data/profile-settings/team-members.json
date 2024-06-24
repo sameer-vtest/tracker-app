@@ -1,0 +1,31 @@
+{
+  "TC_036": {
+    "email": "aishwarya.prakash@merklescience.com"
+  },
+  "TC_038": {
+    "agentRole": "Agent",
+    "adminRole": "Admin"
+  },
+  "TC_039": {
+    "successToastMsg": "Team member details updated successfully.",
+    "failedToastMsg": "Failed to add team member. Please try again."
+  },
+  "TC_040": {
+    "enabled": "Enabled"
+  },
+  "TC_046": {
+    "firstName": "Aishwarya",
+    "lastname": "Prakash",
+    "emailAddress": "aishwarya.prakash@merklescience.com",
+    "invalidEmailAddress": "email123@"
+  },
+  "TC_059": {
+    "header": "Team Members",
+    "subHeader": "Add Members to your team or Modify their roles here.",
+    "tableHeader": "MEMBERS",
+    "firstColName": "NAME",
+    "secondColName": "EMAIL",
+    "thirdColName": "ROLE",
+    "fourthColName": "STATUS"
+  }
+}

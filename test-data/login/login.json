@@ -1,0 +1,43 @@
+{
+	"TC_001_Login": {
+		"emailAddressTextValue": "Email Address",
+		"emailAddressPlaceholderValue": "Enter your email address",
+		"loginPageHeader": "Log In",
+		"pageTitle": "Log in | Tracker Demo",
+		"header": "Welcome",
+		"message": "Log in to Merkle Science to continue to Tracker Demo."
+	},
+	"TC_002_Login": {
+		"googleUserEmail": "sameer.bevinal@merklescience.com",
+		"googleUserPassword": "m#P52s@ap$V",
+		"loginPageHeader": "Log In",
+		"pageTitle": "Log in | Tracker Demo",
+		"header": "Welcome",
+		"message": "Log in to Merkle Science to continue to Tracker Demo."
+	},
+	"TC_003_Login": {
+		"invalidEmail": "test@test.com",
+		"expectedPopup": "No organization found for given email address",
+		"invalidPassword": "test@123"
+	},
+	"TC-006_Login": {
+		"title": "Merkle Science - Privacy Policy"
+	},
+	"TC-007_Login": {
+		"title": "Merkle Science - Terms of Service, Interpretation & Changes"
+	},
+	"TC-009_Login": {
+		"invalidEmail": "test@t",
+		"expectedErrorMessage": "Please enter a valid email address"
+	},
+	"TC-015_Login": {
+		"title": "Reset your password | Tracker Demo"
+	},
+	"TC-016_Login": {
+		"title1": "Reset your password | Tracker Demo",
+		"title2": "Log in | Tracker Demo"
+	},
+	"TC-020_Login": {
+		"emailAddress":"shak@vtestcorp.com"
+	  }
+}

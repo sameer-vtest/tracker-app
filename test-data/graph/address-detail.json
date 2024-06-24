@@ -1,0 +1,43 @@
+{
+	"TC_001_Address_Detail": {
+		"address": "0x3b3213e2323366b6dd95f87093d9caee9eee412a17dedd22b8bc37ca7765db59",
+		"nodeAddress1": "0xbedbe706afa1a7d4e2cb263e7664cd2d4986e323",
+        "nodeAddress2": "0x5bcbdfb6cc624b959c39a2d16110d1f2d9204f72"
+	},
+	"TC_009_Address_Detail": {
+		"directIncomingValue": "Direct Incoming Exposure",
+		"inDirectIncomingValue": "Indirect Incoming Exposure",
+		"directOutgoingValue": "Direct Outgoing Exposure",
+		"inDirectOutgoingValue": "Indirect Outgoing Exposure"
+	},
+	"TC_016_Address_Detail": {
+		"fakePhishing": "Fake_Phishing",
+		"directExposure": "Direct Exposure",
+		"inDirectExposure": "Indirect Exposure"
+	},
+	"TC_022_Address_Detail": {
+		"addressForVerticalScroll": "0x66456c7573a6ca8d8000cc6b2ed238ef3432988a21d97f099e811695f8e8994f",
+		"nodeAddressForScroll": "0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0",
+		"addressForPieChartValidation": "0x11ab3d99061b2f3f45f8a540843e5ea192517246"
+	},
+	"TC_026_Address_Detail": {
+		"counterpartyAddress": "0x094b4cf43908f0adb3dbdb5025f52470aac3b160",
+		"currencies": "eth,bch,op,arb,matic,bsc"
+	},
+	"TC_034_Address_Detail": {
+		"trnxHashAddress": "0x0cd998a543b010495fc3233e6cb9cae6690b884aeab13d662723e80aa65bd962",
+		"counterpartyAddress": "0x8fde837a7a73d8f8c4ace99923e7e360fb697666"
+	},
+	"TC_037_Address_Detail": {
+		"transactionHash": "0x79bba3a5faeac5c8167d2979f7d49323732cb2f86e87e7de82bd723194957f17"
+	},
+	"TC_043_Address_Detail": {
+        "address": "0x896a2be088cd5916ac2e1989f94a9dfaf738cf81cb9be4c4924de5b55622927b",
+		"nodeAddress1": "0x75cb6ed8ba4eaa881baa404c7b6313abdd3271a6",
+		"nodeAddress2": "0x56eddb7aa87536c09ccc2793473599fd21a8b17f",
+		"binanace": "Binance.com"
+    },
+	"TC_084_Address_Detail": {
+        "txnHashToAddress": "0x75cb6ed8ba4eaa881baa404c7b6313abdd3271a6"
+    }
+}

@@ -1,0 +1,51 @@
+{
+	"TC_010": {
+		"transactionWithSingleCurrency": "0x896a2be088cd5916ac2e1989f94a9dfaf738cf81cb9be4c4924de5b55622927b",
+		"untaggedAddress": "0x75cb6ed8ba4eaa881baa404c7b6313abdd3271a6",
+		"taggedAddress": "0x56eddb7aa87536c09ccc2793473599fd21a8b17f",
+		"Currency": "eth",
+		"graphSavedToastMessage": "Graph has been saved successfully"
+	},
+	"TC_034": {
+		"transactionWithSingleCurrency": "0x896a2be088cd5916ac2e1989f94a9dfaf738cf81cb9be4c4924de5b55622927b",
+		"untaggedAddress": "0x75cb6ed8ba4eaa881baa404c7b6313abdd3271a6",
+		"graphSavedToastMessage": "Graph has been saved successfully",
+		"watchTypeInput": "Only Incoming Funds",
+		"minDollarValue": "100",
+		"maxDollarValue": "500",
+		"transferTypeInput": "Internal Transaction",
+		"watchAddressSuccessToastMessage": "Watching the address now!",
+		"updatedWatchTypeInput": "Only Outgoing Funds",
+		"updatedMinDollarValue": "200",
+		"updatedMaxDollarValue": "400",
+		"updatedTransferTypeInput": "Token Transaction",
+		"watchAddressUpdateSuccessToastMessage": "Updated the watcher!",
+		"watchlistRemovalToastMessage": "Removed address from watchlist successfully."
+	},
+	"TC_074": {
+		"transactionWithSingleCurrency": "0x896a2be088cd5916ac2e1989f94a9dfaf738cf81cb9be4c4924de5b55622927b",
+		"untaggedAddress": "0x75cb6ed8ba4eaa881baa404c7b6313abdd3271a6",
+		"crossChainTransaction": "0x027169c2d663b19b2833fc31fbd1f821b33d59f0b328d5cf5927c1b973494bc8",
+		"graphSavedToastMessage": "Graph has been saved successfully",
+		"receiverAddress": "0x56eddb7aa87536c09ccc2793473599fd21a8b17f",
+		"singleAddressMutlipleCurrencies": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b"
+	},
+	"TC_092": {
+		"singleAddressMutlipleCurrencies": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",
+		"tokens": [
+			"DAI",
+			"ETH"
+		]
+	},
+	"TC_117": {
+		"singleAddressMutlipleCurrencies": "0x05c79917a8f6a715ffb9f2890c744fb78bd8213b",
+		"entityTypes": [
+			"DeFi",
+			"Exchange"
+		],
+		"entityNames": [
+			"Coinbase.com",
+			"Hop Protocol: MATIC"
+		]
+	}
+}

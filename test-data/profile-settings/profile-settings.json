@@ -1,0 +1,51 @@
+{
+	"TC-046_Profile": {
+		"firstName": "Sameer",
+		"lastName": "Bevinal"
+	},
+	"TC_047_Profile": {
+		"firstName": "Sameer",
+		"lastName": "Bevinal",
+		"clear": "",
+		"timezone": "(GMT+8:00) Asia/Singapore (Singapore Time)"
+	},
+	"TC_048_Profile": {
+		"firstName": "Sameer",
+		"lastName": "Bevinal",
+		"newFirstName": "Manju",
+		"newLastName": "Ng",
+		"timezone": "(GMT+8:00) Asia/Singapore (Singapore Time)",
+		"toastMessage": "Your details have been updated successfully."
+	},
+	"TC_049_Profile": {
+		"firstName": "1234",
+		"lastName": "1234",
+		"timezone": "(GMT+8:00) Asia/Singapore (Singapore Time)",
+		"toastMessage": "Your details have not been updated."
+	},
+	"TC_050_Profile": {
+		"firstName": "Sameer",
+		"lastName": "Bevinal",
+		"timezone1": "(GMT-9:00) America/Anchorage (Alaska Standard Time)",
+		"timezone2": "(GMT+8:00) Asia/Singapore (Singapore Time)",
+		"toastMessage": "Your details have been updated successfully."
+	},
+	"TC_051_Profile": {
+		"wrongOldPassword": "test@123"
+	},
+	"TC_052": {
+		"message": "Old and New Passwords should not match."
+	},
+	"TC_053": {
+		"message": "Passwords should match.",
+		"confirmNewPassword": "Testing@124"
+	},
+	"TC_054": {
+		"message": "Should contain at least 8 characters.",
+		"password": "Test@12"
+	},
+	"TC_055": {
+		"message": "Should contain at least 1 numeric character.",
+		"password": "Testing@"
+	}
+}
